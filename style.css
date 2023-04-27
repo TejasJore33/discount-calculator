@@ -59,10 +59,11 @@ input {
 }
 .socialmedia i {
   margin-right: 10px;
-  font-size: 24px;
+  font-size: 27px;
 }
 .socialmedia {
   margin-left: 650px;
+  padding-bottom: 20px;
 }
 .socialmedia i:hover {
   color: pink;
